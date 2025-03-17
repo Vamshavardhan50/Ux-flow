@@ -23,9 +23,9 @@ function Logo({
       </div>
       <div>
         <span className="bg-primary bg-clip-text text-transparent">
-          Ux
+          Flow
         </span>
-        <span className="text-stone-700 dark:text-stone-300"> Flow</span>
+        <span className="text-stone-700 dark:text-stone-300">Scrape</span>
       </div>
     </Link>
   );
